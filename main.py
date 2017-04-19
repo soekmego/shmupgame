@@ -13,8 +13,8 @@ img_dir = path.join(path.dirname(__file__), "images")
 snd_dir = path.join(path.dirname(__file__), "sounds")
 
 #define constants
-WIDTH = 480
-HEIGHT = 600
+WIDTH = 480 #480
+HEIGHT = 600 #600
 FPS = 60
 POWERUP_TIME = 5000
 
